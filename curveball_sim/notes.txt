@@ -1,0 +1,5 @@
+things to fix:
+- horizontal deflection z not correct
+- font
+- arrows
+- identification text

@@ -1,0 +1,6 @@
+(1) to compile (in C): gcc -o nameOfOutputFile nameOfInputCFile.c
+	gcc -o main main.c
+(2) run newly made file: ./nameOfOutputFile
+	./main
+(3) to graph with gnuplot in aquaterm: gnuplot -e "filename='dataTextFile.txt'" scriptFile.gnuplot
+	gnuplot -e "filename='decay.txt'" t.gnuplot
